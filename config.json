@@ -1,0 +1,17 @@
+{
+    "db": "cwp-26",
+    "login": "admin_cwp",
+    "password": "admin_cwp",
+    "port": 1433,
+    "host": "ANDREICHAYEUSKI",
+    "dialect": "mssql",
+    "dialectOptions": {
+        "instanceName": "MSSQLSERVER",
+        "encrypt": true,
+        "requestTimeout": 30000
+    },
+    "define": {
+        "timestamps": true,
+        "paranoid": true
+    }
+}
